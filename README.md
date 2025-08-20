@@ -16,7 +16,7 @@
 
 - **Frontend**: Flutter  
 - **Backend**: Django REST Framework (DRF)  
-- **Database & Auth**: Firebase / SQLite / Supabase  
+- **Database & Auth**: PostegreSQL
 - **Development Environment**: Android Studio & VS Code  
 
 ---
