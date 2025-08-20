@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93941923515",
+    "project_id": "nexsite-5ca7f",
+    "storage_bucket": "nexsite-5ca7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93941923515:android:d4dda231acfedb8a23339e",
+        "android_client_info": {
+          "package_name": "com.example.nexsite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvljVkfWUQWZmpMddgfhyqyffDudkX6tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
